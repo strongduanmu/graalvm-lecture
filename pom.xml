@@ -10,5 +10,6 @@
     <modules>
         <module>hello-world</module>
         <module>reflection</module>
+        <module>mysql-udf</module>
     </modules>
 </project>
